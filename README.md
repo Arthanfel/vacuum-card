@@ -200,6 +200,7 @@ If this card works with your vacuum cleaner, please open a PR and your model to 
 - Dyson 360 Eye
 - Neato D7
 - Neato D6
+- Neato D5 Connected
 - Neato D4
 - Shark IQ
 - Ecovacs Deebot 950
